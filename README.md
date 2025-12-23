@@ -15,7 +15,7 @@ Time — это JavaFX-приложение, в котором единый се
 ---
 
 ## Ссылка на репозиторий и демо  
-[GitHub репозиторий](https://github.com/kirillpustovojt/TimeServer)
+[GitHub репозиторий](https://github.com/mdobrynina/Time)
 
 ---
 
